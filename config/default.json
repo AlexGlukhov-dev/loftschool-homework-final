@@ -1,0 +1,5 @@
+{
+    "jwtSecret": "loftsystem",
+    "tokenLife": "12h",
+    "refreshTokenLife": "24h"
+}
